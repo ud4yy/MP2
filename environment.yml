@@ -37,8 +37,22 @@ dependencies:
   - tbb=2021.8.0=hdb19cb5_0
   - threadpoolctl=2.2.0=pyh0d69192_0
   - tk=8.6.14=h39e8969_0
-  - tzdata=2024a=h04d1e81_0
   - wheel=0.43.0=py312h06a4308_0
   - xz=5.4.6=h5eee18b_1
   - zlib=1.2.13=h5eee18b_1
+  - pip:
+      - contourpy==1.2.1
+      - cycler==0.12.1
+      - fonttools==4.53.1
+      - kiwisolver==1.4.5
+      - matplotlib==3.9.2
+      - networkx==3.3
+      - packaging==24.1
+      - pandas==2.2.2
+      - pillow==10.4.0
+      - pyparsing==3.1.2
+      - python-dateutil==2.9.0.post0
+      - pytz==2024.1
+      - six==1.16.0
+      - tzdata==2024.1
 prefix: /home/uday/anaconda3/envs/MP2
